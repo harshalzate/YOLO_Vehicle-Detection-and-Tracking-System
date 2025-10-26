@@ -5,6 +5,7 @@ This project implements a real-time object tracking and counting system using YO
 This implementation is optimized for Google Colab, using cv2_imshow for frame visualization.
 
 Features
+
 • Real-time object detection and tracking
 • Automatic counting of objects crossing a reference line
 • Class-wise count visualization on video frames
@@ -13,6 +14,7 @@ Features
 
 
 Workflow
+
 • Load a video feed or camera stream for processing.
 • The YOLO model detects and tracks objects across frames
 • A red line is drawn as a counting threshold.
