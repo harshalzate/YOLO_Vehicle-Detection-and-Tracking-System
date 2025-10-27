@@ -1,5 +1,9 @@
 🚗 Object Tracking and Counting using YOLO and OpenCV
-![YOLO Object Tracking](YOLO.PNG)
+<p align="center">
+  <img src="https://github.com/<your-username>/<your-repo-name>/blob/main/YOLO.PNG?raw=true" 
+       alt="YOLO Object Tracking" 
+       width="900">
+</p>
 
 
 📘 Description
