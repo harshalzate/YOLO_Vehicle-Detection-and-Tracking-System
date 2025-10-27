@@ -1,5 +1,6 @@
 🚗 Object Tracking and Counting using YOLO and OpenCV
-![YOLO Object Tracking](YOLO.png)
+![YOLO Object Tracking](YOLO.PNG)
+
 
 📘 Description
 
