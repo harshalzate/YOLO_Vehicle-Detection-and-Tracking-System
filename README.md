@@ -5,13 +5,11 @@ This project implements a real-time object tracking and counting system using YO
 This implementation is optimized for Google Colab, using cv2_imshow for frame visualization.
 
 Features
-
-• Real-time object detection and tracking
-• Automatic counting of objects crossing a reference line
-• Class-wise count visualization on video frames
-• Unique ID assignment for each tracked object
-• Fully compatible with Google Colab environment
-
+- Real-time object detection and tracking  
+- Automatic counting of objects crossing a reference line  
+- Class-wise count visualization on video frames  
+- Unique ID assignment for each tracked object  
+- Fully compatible with Google Colab environment 
 
 Workflow
 
