@@ -1,6 +1,6 @@
 🚗 Object Tracking and Counting using YOLO and OpenCV
 <p align="center">
-  <img src="https://github.com/<zateharshal>/YOLO_Vehicle-Detection-and-Tracking-System/blob/main/YOLO.PNG?raw=true" 
+  <img src="https://github.com/harshalzate/YOLO_Vehicle-Detection-and-Tracking-System/blob/main/YOLO.PNG?raw=true" 
        alt="YOLO Object Tracking" 
        width="900">
 </p>
